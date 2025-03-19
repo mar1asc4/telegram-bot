@@ -4,7 +4,7 @@ import threading
 import time
 
 # ✅ CONFIGURAZIONE
-TOKEN = '7927897914: AAE0d2ae_TsU_aePp6
+TOKEN = '7927897914:AAE0d2ae_TsU_aePp6
 my00NosZ3M3V8yigM'  # Inserisci il token del bot di @BotFather
 CHANNEL_ID = '-1002171692138'  # Inserisci l'ID corretto del canale privato
 
